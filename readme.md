@@ -54,7 +54,6 @@ Notes.pdf: A PDF document containing notes or explanations relevant to the proje
 
 README.md: The markdown file containing the project's overview, structure, and other details.
 
-.gitignore: A file specifying which files and directories should be ignored by Git (you can include paths like *.class or specific IDE-related directories).
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Software and Versions
 The following software and tools were used:
