@@ -15,7 +15,7 @@ examples: Houses sample code and mini-projects that illustrate practical applica
 ## Installation
 To get started, clone the repository and set up your development environment:
 
-```sh
+
 git clone https://github.com/Rohith055/Java-Learning-Streaks.git
 cd Java-Learning-Streaks
 
@@ -41,26 +41,32 @@ Java-Learning-Streaks/
 ├── README.md             # Project description and details
 ├── .gitignore            # Files and directories to be ignored by Git
 
-Explanation
+## Explanation
 eclipse/: Contains the structure and files specific to projects developed using Eclipse IDE.
+
 intellij/: Contains the structure and files specific to projects developed using IntelliJ IDEA.
+
 src/: Directory containing source code files (.java).
+
 bin/ and out/: Directories containing compiled class files (.class) for Eclipse and IntelliJ, respectively.
+
 Notes.pdf: A PDF document containing notes or explanations relevant to the project or specific concepts.
+
 README.md: The markdown file containing the project's overview, structure, and other details.
+
 .gitignore: A file specifying which files and directories should be ignored by Git (you can include paths like *.class or specific IDE-related directories).
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Software and Versions
+## Software and Versions
 The following software and tools were used:
 
 Java Development Kit (JDK): Version 17.0.2
 IntelliJ IDEA: Community Edition 2023.1
 Git: Version 2.39.1
 
-Basics Covered
+## Basics Covered
 Syntax and Basics: Data types, variables, operators, control structures (if-else, loops)
 Functions and Methods: Defining and using methods
 Introduction to OOP: Basic concepts of classes and objects
 
-Acknowledgements
+## Acknowledgements
 Thanks to the Java community and online resources for providing learning materials.
