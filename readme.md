@@ -58,14 +58,14 @@ README.md: The markdown file containing the project's overview, structure, and o
 ## Software and Versions
 The following software and tools were used:
 
-Java Development Kit (JDK): Version 17.0.2
-IntelliJ IDEA: Community Edition 2023.1
-Git: Version 2.39.1
+Java Development Kit (JDK): Version 17.0.2.
+IntelliJ IDEA: Community Edition 2023.1.
+Git: Version 2.39.1.
 
 ## Basics Covered
-Syntax and Basics: Data types, variables, operators, control structures (if-else, loops)
-Functions and Methods: Defining and using methods
-Introduction to OOP: Basic concepts of classes and objects
+Syntax and Basics: Data types, variables, operators, control structures (if-else, loops).
+Functions and Methods: Defining and using methods.
+Introduction to OOP: Basic concepts of classes and objects.
 
 ## Acknowledgements
 Thanks to the Java community and online resources for providing learning materials.
