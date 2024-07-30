@@ -15,7 +15,7 @@ examples: Houses sample code and mini-projects that illustrate practical applica
 ## Installation
 To get started, clone the repository and set up your development environment:
 
-
+```sh
 git clone https://github.com/Rohith055/Java-Learning-Streaks.git
 cd Java-Learning-Streaks
 
@@ -40,7 +40,7 @@ Java-Learning-Streaks/
 │
 ├── README.md             # Project description and details
 ├── .gitignore            # Files and directories to be ignored by Git
-
+```
 ## Explanation
 eclipse/: Contains the structure and files specific to projects developed using Eclipse IDE.
 
