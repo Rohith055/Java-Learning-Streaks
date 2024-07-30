@@ -54,7 +54,6 @@ Notes.pdf: A PDF document containing notes or explanations relevant to the proje
 
 README.md: The markdown file containing the project's overview, structure, and other details.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Software and Versions
 The following software and tools were used:
 
